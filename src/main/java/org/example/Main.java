@@ -18,6 +18,7 @@ public class Main {
         // Menampilkan hasil
         if (isPrime) {
             System.out.println(number + " adalah bilangan prima.");
+            System.out.println("lahhh kocakkk");
         } else {
             System.out.println(number + " bukan bilangan prima.");
         }
